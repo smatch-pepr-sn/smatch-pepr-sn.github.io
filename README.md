@@ -3,6 +3,7 @@
 Members are compiled automatically from the markdown files in [`_peoples`](https://github.com/smatch-pepr-sn/smatch-pepr-sn.github.io/tree/gh-pages/_peoples).
 
  - To add a new member, [create a new file in the `_peoples` folder](https://github.com/smatch-pepr-sn/smatch-pepr-sn.github.io/new/gh-pages/_peoples) and copy-paste the header below, before updating it accordingly:
+   
         ---
         title: "Boris Hejblum"
         name: "Boris Hejblum"
