@@ -3,8 +3,9 @@ wpnum: 3
 title: "WP3: Next generation designs for clinical evaluation of Digital Medical Devices based on AI algorithms"
 collection: wps
 permalink: /wps/wp3
-image: slide_wp3.png
 ---
+
+<img width="100%" src="../assets/img/wp/slide_wp3.png" style="float: left; clear:both;"/>
 
 WP3 will focus on design aspects needed for the clinical validation step. Indeed, 
 our aim is not to focus on the analytical validation — for which specific methods 

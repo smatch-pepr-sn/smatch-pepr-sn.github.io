@@ -52,6 +52,9 @@ To this end, SMATCH is structuring its research around four operational workpack
   4. Evaluation with regulatory authorities and end-users of the regulatory impact 
   and feasibility of innovative methods for clinical trials proposed for widespread use.
 
+<img width="100%" src="../assets/img/SMATCH_global.png" style="float: center; clear:both;"/>
+
+
 The consortium is made up of **16 teams**, mainly from *Inria* and *Inserm* research 
 centers recognized in this field, bringing a unique and complementary expertise 
 in data sciences and AI applied to health problems and specifically to clinical 
@@ -61,9 +64,11 @@ all methodological projects are applied to ongoing health studies in various fie
 Finally, many connections exist with the other axes of the PEPR Digital Health 
 and more generally with the projects carried out within the framework of the 
 digital health acceleration strategy. Thus, by providing innovative and adapted 
-methodological tools that will have already been applied in a real context, we hope to participate in the acceleration of clinical research leading to major societal and economic impacts.
+methodological tools that will have already been applied in a real context, we 
+hope to participate in the acceleration of clinical research leading to major 
+societal and economic impacts.
 
-<img width="450" src="../assets/img/SMATCH_map.png" style="float: right; margin-left: 30px; clear:both;"/>
+<img width="100%" src="../assets/img/SMATCH_map.png" style="float: center; clear:both;"/>
 
 {% for post in site.wps %}
     {% include wps.html %}
