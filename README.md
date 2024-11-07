@@ -1,11 +1,8 @@
-## Adding and updating members
+# Adding and updating members
 
-Members are compiled automatically from the markdown files in `_peoples`.
+Members are compiled automatically from the markdown files in [`_peoples`](https://github.com/smatch-pepr-sn/smatch-pepr-sn.github.io/tree/gh-pages/_peoples).
 
-- To add a picture, (git) add the image in `assets/img/people/` and update the
-  header.
-- Here's an example of template:
-
+ - To add a new member, [create a new file in the `_peoples` folder](https://github.com/smatch-pepr-sn/smatch-pepr-sn.github.io/new/gh-pages/_peoples) and copy-paste the header below, before updating it accordingly:
         ---
         title: "Boris Hejblum"
         name: "Boris Hejblum"
@@ -23,16 +20,20 @@ Members are compiled automatically from the markdown files in `_peoples`.
 
     You can add more markdown text here.
 
+- To add a picture, add the image in `assets/img/people/` and update the
+  header.
 
-## Adding publications
+# Adding publications
 
 We are use HAL to deposit publications and automatically create a publication list. 
 Make sure to adequatly identify the ANR funding for SMATCH (code ANR-22-PESN-0003) in 
 your publication/preprint deposit on HAL, and the reference will appear here
 
+# Adding events
 
+Add a specific line describing the event in the markdown file in [`events.md`](https://github.com/smatch-pepr-sn/smatch-pepr-sn.github.io/edit/gh-pages/events.md).
 
-# HOW TO update other stuff on our wonderful website
+## HOW TO update other stuff on our wonderful website
 
 
 To be noted:
@@ -41,7 +42,9 @@ To be noted:
 * Stored files are in the **files** folder
 
 
-# HOW TO locally edit the content (advanced users)
+
+
+## HOW TO locally edit the content (advanced users)
 
 * Log into your github account and make sure the computer you are on has been listed through a ssh key
 * Clone the repo:
