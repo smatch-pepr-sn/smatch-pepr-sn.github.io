@@ -59,7 +59,7 @@ Members are compiled automatically from the markdown files in `_peoples`.
 ## Adding publications
 
 We are use HAL to deposit publications and automatically create a publication list. 
-Make sure to adequatly identify the ANR funding for SMATCH (code 22-PESN-0003) in 
+Make sure to adequatly identify the ANR funding for SMATCH (code ANR-22-PESN-0003) in 
 your publication/preprint deposit on HAL, and the reference will appear here
 
 

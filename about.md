@@ -10,7 +10,11 @@ redirect_from:
 
 <img width="150" src="../assets/img/funding/france2030.png" style="float: right; margin-left: 30px; clear:both;"/>
 
-SMATCH is a consortium (2023-2029) from the [PEPR Santé Numérique](https://www.inria.fr/fr/pepr-sante-numerique-projets) (project no. 22-PESN-0002) headed by INRIA-INSERM. It gathers researchers from different institutions on AI developments for single-cell biology applied to precision medicine.
+SMATCH is a consortium (2023-2029) from the [PEPR Santé Numérique](https://www.inria.fr/fr/pepr-sante-numerique-projets) 
+(project no. 22-PESN-0003) headed by INRIA-INSERM. It gathers researchers from 
+different institutions on the development of 
+*Statistical and AI based Methods for Advanced Clinical Trials CHallenges in Digital Health*.
+
 
 # General Presentation
 
