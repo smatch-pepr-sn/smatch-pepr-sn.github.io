@@ -15,7 +15,7 @@ author: SMATCH
 
 navbar-links:
     Members: "people"
-    Publications: https://hal.science/search/index?q=smatch
+    Publications: https://hal.science/search/index?q=*&anrProjectReference_s=22-PESN-0003
     Software: "softwares"
     Events: "events"
 
@@ -41,7 +41,7 @@ social-network-links:
   #email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   #facebook: deanattali
-  github: ai4scmed
+  github: smatch-pepr-sn
   #twitter: daattali
   #patreon: DeanAttali
   #youtube: c/daattali
@@ -65,7 +65,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that we're awesome
+rss-description: SMATCH axis from the PEPR sante numerique
 
 # --- General options --- #
 
@@ -78,7 +78,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "https://smatch.github.io/"
+url-pretty: "https://smatch-pepr-sn.github.io/"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50

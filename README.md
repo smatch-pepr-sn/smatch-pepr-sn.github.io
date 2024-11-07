@@ -39,24 +39,27 @@ Members are compiled automatically from the markdown files in `_peoples`.
 - Here's an example of template:
 
         ---
-        title: "Nelle Varoquaux"
-        name: "Nelle Varoquaux"
+        title: "Boris Hejblum"
+        name: "Boris Hejblum"
         collection: peoples
-        permalink: /people/nelle_varoquaux
-        image: nelle.png
+        permalink: /people/boris_hejblum
+        image: boris.jpg
         position: "Permanent researcher"
-        website: "https://nellev.github.io/"
-        github: "https://github.com/nellev"
-        googlescholar: "https://scholar.google.fr/citations?user=8QspsP0AAAAJ&hl=en"
-        orcid: "https://orcid.org/0000-0002-8748-6546"
-        osf: "https://osf.io/duxyk/"
+        website: "https://borishejblum.science/"
+        github: "https://github.com/borishejblum/"
+        googlescholar: "https://scholar.google.com/citations?sortby=pubdate&hl=en&user=xU72YmYAAAAJ&view_op=list_works/"
+        orcid: "https://orcid.org/0000-0003-0646-452X"
         ---
 
-        **[Nelle Varoquaux](https://nellev.github.io)** is a machine.  
+        **[Boris Hejblum](https://borishejblum.science/)** is a researcher in Biostatistics at [Inserm U1219 *Bordeaux Population Health*](https://www.bordeaux-population-health.center/) in the [SISTM team](https://www.bordeaux-population-health.center/the-teams/sistm/). His research focuses on the development of statistical methods for the analysis of longitudinal high-throughput biomedical data, in particular for studying gene expression in human vaccine trials.
 
     You can add more markdown text here.
 
 
 ## Adding publications
 
-We will use HAL to deposit publications and automatically create a publication list. More to come on that matter later.
+We are use HAL to deposit publications and automatically create a publication list. 
+Make sure to adequatly identify the ANR funding for SMATCH (code 22-PESN-0003) in 
+your publication/preprint deposit on HAL, and the reference will appear here
+
+
