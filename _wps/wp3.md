@@ -5,7 +5,7 @@ collection: wps
 permalink: /wps/wp3
 ---
 
-<img width="100%" src="../assets/img/wp/slide_wp3.png" style="float: left; clear:both;"/>
+<img width="75%" src="../assets/img/wp/slide_wp3.png" style="float: left; clear:both;"/>
 
 WP3 will focus on design aspects needed for the clinical validation step. Indeed, 
 our aim is not to focus on the analytical validation — for which specific methods 
