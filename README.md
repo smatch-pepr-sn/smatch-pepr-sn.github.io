@@ -1,35 +1,3 @@
-# HOW TO update stuff on our wonderful website
-
-
-* Log into your github account and make sure the computer you are on has been listed through a ssh key
-* Clone the repo:
-
-`git clone git@github.com:smatch-pepr-sn/smatch.github.io.git`
-
-If you have an authentification error,  try using the https protocol
-
-`git clone https://github.com/smatch-pepr-sn/smatch.github.io.git`
-
-
-Now the fun can start!
-
-NB: if you want to avoid to enter your SSH passphrase upon each action, you can used `ssh-add` once and for all on your computer.
-
-
-So then the process is:
-- make changes to the site
-- push
-- take a coffee!
-- look at the webpage!
-
-
-To be noted:
-* Index page is layed out in `about.md`
-* The rest are markdown pages. See [here for a cheat sheet.](https://www.markdownguide.org/cheat-sheet/)
-* Stored files are in the **files** folder
-* Publications are automatically listed from the **_publications** folder via the publications.md file.
-
-
 ## Adding and updating members
 
 Members are compiled automatically from the markdown files in `_peoples`.
@@ -63,3 +31,35 @@ Make sure to adequatly identify the ANR funding for SMATCH (code ANR-22-PESN-000
 your publication/preprint deposit on HAL, and the reference will appear here
 
 
+
+# HOW TO update other stuff on our wonderful website
+
+
+To be noted:
+* Index page is layed out in `about.md`
+* The rest are markdown pages. See [here for a cheat sheet.](https://www.markdownguide.org/cheat-sheet/)
+* Stored files are in the **files** folder
+
+
+# HOW TO locally edit the content (advanced users)
+
+* Log into your github account and make sure the computer you are on has been listed through a ssh key
+* Clone the repo:
+
+`git clone git@github.com:smatch-pepr-sn/smatch.github.io.git`
+
+If you have an authentification error,  try using the https protocol
+
+`git clone https://github.com/smatch-pepr-sn/smatch.github.io.git`
+
+
+Now the fun can start!
+
+NB: if you want to avoid to enter your SSH passphrase upon each action, you can used `ssh-add` once and for all on your computer.
+
+
+So then the process is:
+- make changes to the site
+- push
+- take a coffee!
+- look at the webpage!
