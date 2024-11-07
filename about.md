@@ -52,7 +52,7 @@ To this end, SMATCH is structuring its research around four operational workpack
   4. Evaluation with regulatory authorities and end-users of the regulatory impact 
   and feasibility of innovative methods for clinical trials proposed for widespread use.
 
-<img width="95%" src="../assets/img/SMATCH_global.png" style="float: center; clear:both;"/>
+<img width="85%" src="../assets/img/SMATCH_global.png" style="float: center; clear:both;"/>
 
 
 The consortium is made up of **16 teams**, mainly from *Inria* and *Inserm* research 
