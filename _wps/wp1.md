@@ -3,7 +3,6 @@ wpnum: 1
 title: "WP1: Novel clinical trial methods and designs based on translation from animal to humans, research-based disease models"
 collection: wps
 permalink: /wps/wp1
-image:
 ---
 
 The global objective is to propose a methodological framework for accelerating 
