@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-<img width="150" src="../assets/img/funding/france2030.png" style="float: right; margin-left: 30px; clear:both;"/>
+<img width="150" src="../assets/img/funding/france2030.png" href="https://www.info.gouv.fr/grand-dossier/france-2030" style="float: right; margin-left: 30px; clear:both;"/>
 
 SMATCH is a consortium (2023-2029) from the [PEPR Santé Numérique](https://www.inria.fr/fr/pepr-sante-numerique-projets) 
-(project no. 22-PESN-0003) headed by INRIA-INSERM. It gathers researchers from 
-different institutions on the development of 
+(project no. 22-PESN-0003) headed by INRIA-INSERM, part of the [France 2030 initiative](https://www.info.gouv.fr/grand-dossier/france-2030). 
+It gathers researchers from different institutions on the development of 
 *Statistical and AI based Methods for Advanced Clinical Trials CHallenges in Digital Health*.
 
 
