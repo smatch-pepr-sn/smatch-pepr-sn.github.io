@@ -21,8 +21,8 @@ Members are compiled automatically from the markdown files in [`_peoples`](https
 
     You can add more markdown text here.
 
-- To add a picture, add the image in `assets/img/people/` and update the
-  header.
+- To add a picture, [add an image in `assets/img/people/`](https://github.com/smatch-pepr-sn/smatch-pepr-sn.github.io/upload/gh-pages/assets/img/people), and update the
+  header above with its name
 
 # Adding publications
 
@@ -34,13 +34,14 @@ your publication/preprint deposit on HAL, and the reference will appear here
 
 Add a specific line describing the event in the markdown file in [`events.md`](https://github.com/smatch-pepr-sn/smatch-pepr-sn.github.io/edit/gh-pages/events.md).
 
+
+
 ## HOW TO update other stuff on our wonderful website
 
-
 To be noted:
-* Index page is layed out in `about.md`
+* Home index page is layed out in `about.md`
 * The rest are markdown pages. See [here for a cheat sheet.](https://www.markdownguide.org/cheat-sheet/)
-* Stored files are in the **files** folder
+* Stored files are in the `files` folder
 
 
 
