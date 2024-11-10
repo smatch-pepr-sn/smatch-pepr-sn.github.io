@@ -31,9 +31,15 @@ Make sure to adequatly identify the ANR funding for SMATCH (code **ANR-22-PESN-0
 your publication/preprint deposit **metadata on *HAL***, and the reference will appear on the 
 website ~~magically~~ automatically.
 
+
 # Adding events
 
 Add a specific line describing the event in the markdown file in [`events.md`](https://github.com/smatch-pepr-sn/smatch-pepr-sn.github.io/edit/gh-pages/events.md).
+
+
+# Adding softwares
+
+Add a specific line describing the software in the markdown file in [`softwares.md`](https://github.com/smatch-pepr-sn/smatch-pepr-sn.github.io/edit/gh-pages/softwares.md).
 
 
 
